@@ -1,0 +1,26 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main {
+  min-width: 50%;
+}
+
+.main input {
+  width: 70%;
+}
+.main button {
+  width: 15%;
+}
+
+.todo-elements {
+  min-width: 50%;
+}
